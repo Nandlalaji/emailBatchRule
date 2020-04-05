@@ -1,0 +1,1 @@
+This is sample app to show how rules for email can be read from file. 

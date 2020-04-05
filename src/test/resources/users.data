@@ -1,0 +1,11 @@
+a@xyz.com,false,10, 3
+b@xyz.com,false,0, 2
+a@abc.com, false, 0, 0
+b@abc.com, false, 3, 0
+c@abc.com, false, 4, 2
+d@abc.com, false, 2, 2
+e@abc.com, false, 2, 10
+f@abc.com, true, 0, 0
+g@abc.com, true, 0, 5
+h@abc.com, true, 2, 2
+i@abc.com, true, 5, 4
